@@ -16,4 +16,7 @@ A clean, responsive weather application that displays current and 5-day forecast
 - **Bundler**: Webpack
 - **Icons**: Font Awesome
 - **API**: [Visual Crossing Weather API](https://www.visualcrossing.com/)
-- **Hosting**: [GitHub Pages](https://akadwa.github.io/weather-app/)
+
+## Live Demo
+
+Click [here](https://akadwa.github.io/weather-app/) to view a live demo.
